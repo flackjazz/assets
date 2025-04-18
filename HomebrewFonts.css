@@ -15,6 +15,10 @@
     @import url(https://db.onlinewebfonts.com/c/ceb89574b53dc7835404f18a98d32020?family=Joscelyn+Medium);
 
     @font-face {
+    font-family: "Graveur";
+    src: url("https://db.onlinewebfonts.com/t/3c2421454fcd397984b85fe020141eca.woff2")format("woff2");}
+
+    @font-face {
       font-family: "JunicodeVF";
       src: url("https://rawcdn.githack.com/flackjazz/assets/eda5b5b95a75ab21507ee42aeaeb8451ea4294e5/fonts/JunicodeVF-Roman.woff2")format("woff2");
       font-style: normal;}
