@@ -13,6 +13,14 @@
     @import url(https://db.onlinewebfonts.com/c/8ededd39f122471b4a625cd16c1bda16?family=JuniusVF);
     
     @import url(https://db.onlinewebfonts.com/c/ceb89574b53dc7835404f18a98d32020?family=Joscelyn+Medium);
+
+    @font-face {
+      src: url("https://rawcdn.githack.com/flackjazz/assets/eda5b5b95a75ab21507ee42aeaeb8451ea4294e5/fonts/JunicodeVF-Roman.woff2")format("woff2");
+      font-style: normal;}
+
+    @font-face {
+      src: url("https://rawcdn.githack.com/flackjazz/assets/eda5b5b95a75ab21507ee42aeaeb8451ea4294e5/fonts/JunicodeVF-Italic.woff2")format("woff2");
+      font-style: italic;}
     
     @font-face {
     font-family: "JaneAusten";
