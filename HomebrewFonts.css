@@ -48,18 +48,6 @@ font-weight: 400;}
     src: url("https://db.onlinewebfonts.com/t/312602cae1676bef0cd3960d83fb5a04.woff2")format("woff2");
     font-weight: 900;}
 
-@font-face {
-    font-family: "ITC Golden Type";
-    src: url("https://db.onlinewebfonts.com/t/ac0b82c1906cbb40487985bfe37ff007.woff2")format("woff2");
-    font-variant: small-caps;
-    font-weight: 700;}
-
-@font-face {
-    font-family: "ITC Golden Type";
-    src: url("https://db.onlinewebfonts.com/t/ac0b82c1906cbb40487985bfe37ff007.woff2")format("woff2");
-    font-variant: small-caps;
-    font-weight: 400}
-
     @font-face {
     font-family: "Graveur";
     src: url("https://db.onlinewebfonts.com/t/3c2421454fcd397984b85fe020141eca.woff2")format("woff2");}
