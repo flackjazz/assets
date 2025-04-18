@@ -15,6 +15,20 @@
     @import url(https://db.onlinewebfonts.com/c/ceb89574b53dc7835404f18a98d32020?family=Joscelyn+Medium);
 
 @font-face {
+    font-family: "Faunus";
+    src: url("https://db.onlinewebfonts.com/t/58f261c02fe0fbb1d5049757129acf4a.woff2")format("woff2");}
+
+@font-face {
+    font-family: "Satyr";
+    src: url("https://db.onlinewebfonts.com/t/49c35cdac632d5f201d094ae3372f005.woff2")format("woff2");
+    font-style: normal;}
+
+@font-face {
+    font-family: "Satyr";
+    src: url("https://db.onlinewebfonts.com/t/e03b9434f7e75d08baf4cdc3a92d9ab7.woff2")format("woff2");
+    font-style: italic;}
+
+@font-face {
     font-family: "Service Gothic";
     src: url("https://db.onlinewebfonts.com/t/7d1fe611632be57be55aad6fee19c450.woff2")format("woff2");}
 
@@ -27,7 +41,12 @@ font-weight: 400;}
 @font-face {
     font-family: "ITC Golden Type";
     src: url("https://db.onlinewebfonts.com/t/b612eea9de2464eca5c638f50d2c2b82.woff2")format("woff2");
-font-weight: 700;}
+    font-weight: 700;}
+
+@font-face {
+    font-family: "ITC Golden Type";
+    src: url("https://db.onlinewebfonts.com/t/312602cae1676bef0cd3960d83fb5a04.woff2")format("woff2");
+    font-weight: 900;}
 
 @font-face {
     font-family: "ITC Golden Type";
