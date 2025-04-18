@@ -14,9 +14,27 @@
     
     @import url(https://db.onlinewebfonts.com/c/ceb89574b53dc7835404f18a98d32020?family=Joscelyn+Medium);
 
+@font-face {
+    font-family: "Service Gothic";
+    src: url("https://db.onlinewebfonts.com/t/7d1fe611632be57be55aad6fee19c450.woff2")format("woff2");}
+
+@font-face {
+    font-family: "ITC Golden Type";
+    src: url("https://db.onlinewebfonts.com/t/ac0b82c1906cbb40487985bfe37ff007.woff2")format("woff2");
+    font-variant: normal;}
+
+@font-face {
+    font-family: "ITC Golden Type";
+    src: url("https://db.onlinewebfonts.com/t/ac0b82c1906cbb40487985bfe37ff007.woff2")format("woff2");
+    font-variant: small-caps;}
+
     @font-face {
     font-family: "Graveur";
     src: url("https://db.onlinewebfonts.com/t/3c2421454fcd397984b85fe020141eca.woff2")format("woff2");}
+
+    @font-face {
+    font-family: "Graveur Ornaments";
+    src: url("https://db.onlinewebfonts.com/t/e98723d916ce53d11867c10582525092.woff2")format("woff2");}
 
     @font-face {
       font-family: "JunicodeVF";
