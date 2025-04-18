@@ -69,22 +69,18 @@ font-weight: 400;}
     src: url("https://db.onlinewebfonts.com/t/e98723d916ce53d11867c10582525092.woff2")format("woff2");}
 
     @font-face {
-      font-family: "JunicodeVF";
-      src: url("https://rawcdn.githack.com/flackjazz/assets/eda5b5b95a75ab21507ee42aeaeb8451ea4294e5/fonts/JunicodeVF-Roman.woff2")format("woff2");
-      font-style: normal;}
+    font-family: "JunicodeVF";
+    src: url("https://rawcdn.githack.com/flackjazz/assets/eda5b5b95a75ab21507ee42aeaeb8451ea4294e5/fonts/JunicodeVF-Roman.woff2")format("woff2");
+    font-style: normal;}
 
     @font-face {
-      font-family: "JunicodeVF";
-      src: url("https://rawcdn.githack.com/flackjazz/assets/eda5b5b95a75ab21507ee42aeaeb8451ea4294e5/fonts/JunicodeVF-Italic.woff2")format("woff2");
-      font-style: italic;}
+    font-family: "JunicodeVF";
+    src: url("https://rawcdn.githack.com/flackjazz/assets/eda5b5b95a75ab21507ee42aeaeb8451ea4294e5/fonts/JunicodeVF-Italic.woff2")format("woff2");
+    font-style: italic;}
     
     @font-face {
     font-family: "JaneAusten";
     src: url("https://db.onlinewebfonts.com/t/9d1f11189ffacf58d2801f12f20eceb8.woff2")format("woff2");}
-
-    @font-face {
-    font-family: "Elstob";
-    src: url("https://db.onlinewebfonts.com/t/ccc1e0237af4e88b78b94ba640454ee3.woff2")format("woff2");}
     
     @font-face {
     font-family: "Linthicum";
@@ -103,30 +99,8 @@ font-weight: 400;}
     src: url("https://db.onlinewebfonts.com/t/19c12ea18b130dacc9cf1e523b6c45ee.woff2")format("woff2");}
     
     @font-face {
-    font-family: "Faucheur";
-    src: url("https://db.onlinewebfonts.com/t/802e05d5e7ea18334a1eeb10dc9dd7b6.woff2")format("woff2");}
-    
-    @font-face {
     font-family: "Rinceau";
-    src: url("https://db.onlinewebfonts.com/t/2ae1496b185cee82f1df00088066e9da.woff2")format("woff2");}
-    
-    @font-face {
-    font-family: "1534 Fraktur";
-    src: url("https://db.onlinewebfonts.com/t/012fbdd47d862abc7961cc4ed11c9752.woff2")format("woff2");}
-    
-    @font-face {
-    font-family: "1883 Fraktur";
-    src: url("https://db.onlinewebfonts.com/t/b1c55a892b5e7c78d2afca29d1304319.woff2")format("woff2");
-    font-weight: 400;}
-    
-    @font-face {
-    font-family: "1883 Fraktur";
-    src: url("https://db.onlinewebfonts.com/t/97a4f60218c3b5cab7b2c3f2cf330550.woff2")format("woff2");
-    font-weight: 700;}
-    
-    @font-face {
-    font-family: "Chancellerie";
-    src: url("https://db.onlinewebfonts.com/t/6a32a231075f79c8d21a9e6ec1d83b8b.woff2")format("woff2");}
+    src: url("https://db.onlinewebfonts.com/t/2ae1496b185cee82f1df00088066e9da.woff2")format("woff2");
     
     @font-face {
     font-family: "Elzevir";
