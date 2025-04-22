@@ -8,3 +8,5 @@
 @font-face { font-family: 'Arno Pro'; src: url('fonts/ArnoPro-BoldItalic.woff2') format('woff2'); font-weight: 700; font-style: italic; }
 
 @font-face { font-family: 'Italia Std'; src: url('fonts/italiastd-book.woff2') format('woff2'); font-weight: 400; font-style: normal; }
+
+@font-face { font-family: 'MexTeq'; src: url('fonts/MexicanTequila-Italic.woff2') format('woff2'); font-weight: 400; font-style: normal; }
