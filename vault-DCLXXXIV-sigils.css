@@ -10,3 +10,11 @@
 @font-face { font-family: 'Italia Std'; src: url('fonts/italiastd-book.woff2') format('woff2'); font-weight: 400; font-style: normal; }
 
 @font-face { font-family: 'MexTeq'; src: url('fonts/MexicanTequila-Italic.woff2') format('woff2'); font-weight: 400; font-style: normal; }
+
+@font-face { 
+  font-family: 'Gans Blasones'; 
+  src: url('fonts/GansBlasones.woff2') format('woff2');}
+
+@font-face { 
+  font-family: 'Gans Blasones Two'; 
+  src: url('fonts/GansBlasonesTwo.woff2') format('woff2');}
