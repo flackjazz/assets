@@ -29,3 +29,8 @@
   font-family: 'Junicode VF'; 
   src: url('fonts/JunicodeVF-Italic.woff2') format('woff2');
   font-style: italic;}
+
+@font-face { 
+  font-family: 'JunicodeTwo'; 
+  src: url('fonts/JunicodeTwoBetaVF-Roman.woff2') format('woff2');
+  font-style: italic;}
