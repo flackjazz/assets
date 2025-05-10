@@ -11,6 +11,16 @@
   src: url('fonts/JuniusVF.woff2') format('woff2');}
 
 @font-face { 
+  font-family: 'JuniusX'; 
+  src: url('fonts/JuniusX-Regular.woff2') format('woff2');
+  font-weight: 400;}
+
+@font-face { 
+  font-family: 'JuniusX'; 
+  src: url('fonts/JuniusX-Bold.woff2') format('woff2');
+  font-weight: 700;}
+
+@font-face { 
   font-family: 'Junicode VF'; 
   src: url('fonts/JunicodeVF-Roman.woff2') format('woff2');
   font-style: normal;}
