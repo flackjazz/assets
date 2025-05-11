@@ -7,20 +7,6 @@
   src: url('fonts/GansBlasonesTwo.woff2') format('woff2');}
 
 @font-face { 
-  font-family: 'JuniusVF'; 
-  src: url('fonts/JuniusVF.woff2') format('woff2');}
-
-@font-face { 
-  font-family: 'JuniusX'; 
-  src: url('fonts/JuniusX-Regular.woff2') format('woff2');
-  font-weight: 400;}
-
-@font-face { 
-  font-family: 'JuniusX'; 
-  src: url('fonts/JuniusX-Bold.woff2') format('woff2');
-  font-weight: 700;}
-
-@font-face { 
   font-family: 'Junicode VF'; 
   src: url('fonts/JunicodeVF-Roman.woff2') format('woff2');
   font-style: normal;}
@@ -30,6 +16,369 @@
   src: url('fonts/JunicodeVF-Italic.woff2') format('woff2');
   font-style: italic;}
 
-@font-face { 
-  font-family: 'JunicodeTwo'; 
-  src: url('fonts/JunicodeTwoBetaVF-Roman.woff2') format('woff2');}
+@font-face {
+        font-family: "Lava";
+        src: url("https://db.onlinewebfonts.com/t/8c6538635205ee5ae73c6ecc30cfb3b2.eot");
+        src: url("https://db.onlinewebfonts.com/t/8c6538635205ee5ae73c6ecc30cfb3b2.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/8c6538635205ee5ae73c6ecc30cfb3b2.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/8c6538635205ee5ae73c6ecc30cfb3b2.woff")format("woff");}
+    
+    @font-face {
+        font-family: "Linotype Pisa";
+        src: url("https://db.onlinewebfonts.com/t/ff692292d59899288d304bde2341f2cb.eot");
+        src: url("https://db.onlinewebfonts.com/t/ff692292d59899288d304bde2341f2cb.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/ff692292d59899288d304bde2341f2cb.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/ff692292d59899288d304bde2341f2cb.woff")format("woff");
+        font-weight: 400;}
+    
+    @font-face {
+        font-family: "Linotype Pisa";
+        src: url("https://db.onlinewebfonts.com/t/0406f77e7e6e9a6a47c17f98daf7d7b9.eot");
+        src: url("https://db.onlinewebfonts.com/t/0406f77e7e6e9a6a47c17f98daf7d7b9.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/0406f77e7e6e9a6a47c17f98daf7d7b9.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/0406f77e7e6e9a6a47c17f98daf7d7b9.woff")format("woff");
+        font-weight: 700;}
+
+    @font-face {
+        font-family: "LT Novelty";
+        src: url("https://db.onlinewebfonts.com/t/804114d807d739ed91bfe396144cdfbe.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Pommern Gotisch";
+        src: url("https://db.onlinewebfonts.com/t/62b504b7c16e2f73097bf112f79a5807.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "TypoGotischSchmuck";
+        src: url("https://db.onlinewebfonts.com/t/459d7b6006fa405e44d47aff7f3b6761.woff2")format("woff2");
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "TypoGotischSchmuck";
+        src: url("https://db.onlinewebfonts.com/t/bd45a57a33bb5cff76af3e530f3a0b20.woff2")format("woff2");
+        font-weight: 700; }
+
+    @font-face {
+        font-family: "Emblems";
+        src: url("https://db.onlinewebfonts.com/t/50dcc3eb4969c6db8205ecef88bd2686.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "KidingsTwo";
+        src: url("https://db.onlinewebfonts.com/t/d43128c11eb49165021e251c7241b29f.woff")format("woff"); }
+
+    @font-face {
+        font-family: "Pokoljaro";
+        src: url("https://db.onlinewebfonts.com/t/3a83639ca53146a00e20c6fe369790e0.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: 'Pompei';
+        src: url("https://db.onlinewebfonts.com/t/1077728c05575408da4c3bcf5db1f824.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Bibelschrift";
+        src: url("https://db.onlinewebfonts.com/t/b8b42c597185d457caadc58f96fdcc54.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Quadrata";
+        src: url("https://db.onlinewebfonts.com/t/63a8fed6f718e9c3cc1a0b4c85837e4b.woff2")format("woff2");
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "Quadrata";
+        src: url("https://db.onlinewebfonts.com/t/0a8b408d7e2c021e7918f6ee76375182.woff2")format("woff2");
+        font-weight: 700; }
+
+    @font-face {
+        font-family: "Leyden";
+        src: url("https://db.onlinewebfonts.com/t/76a17af3bfe7d459ce8a8c161400e175.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Fournier Narrow";
+        src: url("https://db.onlinewebfonts.com/t/b2d7f634f37d307002ef1ae8b117ce39.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Fournier Titling";
+        src: url("https://db.onlinewebfonts.com/t/9faa871df533376187a45b5e16aa378f.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Fournier";
+        src: url("https://db.onlinewebfonts.com/t/6fff6a48816e33a717b0ef6d737f929c.woff2")format("woff2");
+        font-style: normal; }
+
+    @font-face {
+        font-family: "Fournier";
+        src: url("https://db.onlinewebfonts.com/t/977f643a71a409fa88ee10b9e9ae9bff.woff2")format("woff2");
+        font-style: italic; }
+
+    @font-face {
+        font-family: "Civilite Manual";
+        src: url("https://db.onlinewebfonts.com/t/25b7909890a15d65c34be932d57e050d.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "French Civilite";
+        src: url("https://db.onlinewebfonts.com/t/e94f0d40e96f745eb8d61fb429a93420.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Civilite Granjon";
+        src: url("https://db.onlinewebfonts.com/t/7f1be0e296891733bdaa6c407ab0c462.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "1883 Fraktur";
+        src: url("https://db.onlinewebfonts.com/t/290dd8421979d825ee4665a6349baa59.woff2")format("woff2");
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "1883 Fraktur";
+        src: url("https://db.onlinewebfonts.com/t/d77278c17bfeee5bf5e17b3f543144b4.woff2")format("woff2");
+        font-weight: 700; }
+
+    @font-face {
+        font-family: "Satyr";
+        src: url("https://db.onlinewebfonts.com/t/49c35cdac632d5f201d094ae3372f005.woff2")format("woff2");
+        font-style: normal; }
+
+    @font-face {
+        font-family: "Satyr";
+        src: url("https://db.onlinewebfonts.com/t/e03b9434f7e75d08baf4cdc3a92d9ab7.woff2")format("woff2");
+        font-style: italic; }
+
+    @font-face {
+        font-family: "Service Gothic";
+        src: url("https://db.onlinewebfonts.com/t/7d1fe611632be57be55aad6fee19c450.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Graveur Ornaments";
+        src: url("https://db.onlinewebfonts.com/t/e98723d916ce53d11867c10582525092.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "JaneAusten";
+        src: url("https://db.onlinewebfonts.com/t/9d1f11189ffacf58d2801f12f20eceb8.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "CCNearMythFables";
+        src: url("https://db.onlinewebfonts.com/t/19c12ea18b130dacc9cf1e523b6c45ee.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Rinceau";
+        src: url("https://db.onlinewebfonts.com/t/2ae1496b185cee82f1df00088066e9da.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Elzevir";
+        src: url("https://db.onlinewebfonts.com/t/82c7117d84ef3a848238b38c122d8f64.woff2")format("woff2");
+        font-style: normal; }
+
+    @font-face {
+        font-family: "Elzevir";
+        src: url("https://db.onlinewebfonts.com/t/2b1b8b1712fad76b8e6f9b541f4f6433.woff2")format("woff2");
+        font-style: italic; }
+
+    @font-face {
+        font-family: "Captain Flint";
+        src: url("https://db.onlinewebfonts.com/t/f70b0fc820c7373126f22980aa4c5d2c.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Constitution";
+        src: url("https://db.onlinewebfonts.com/t/882e10443fd9b780036f6ffa6609fd00.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Sorbonne";
+        src: url("https://db.onlinewebfonts.com/t/fd31d1d7ad7f816920a6c9f67f87d8d8.eot");
+        src: url("https://db.onlinewebfonts.com/t/fd31d1d7ad7f816920a6c9f67f87d8d8.eot?#iefix")format("embedded-opentype"),
+        url("https://db.onlinewebfonts.com/t/fd31d1d7ad7f816920a6c9f67f87d8d8.woff2")format("woff2"),
+        url("https://db.onlinewebfonts.com/t/fd31d1d7ad7f816920a6c9f67f87d8d8.woff")format("woff"),
+        url("https://db.onlinewebfonts.com/t/fd31d1d7ad7f816920a6c9f67f87d8d8.ttf")format("truetype"),
+        url("https://db.onlinewebfonts.com/t/fd31d1d7ad7f816920a6c9f67f87d8d8.svg#F1470 Sorbonne W00 Normal")format("svg");}
+
+    @font-face {
+        font-family: "Operina Romano";
+        src: url("https://db.onlinewebfonts.com/t/7100e52df02c9d7ba417ebcf37f439b8.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "Operina Corsivo";
+        src: url("https://db.onlinewebfonts.com/t/e1a0558dcc5a3cdb4789134ccf91bb9c.woff2") format("woff2");
+        ascent-override: 120%;
+        descent-override: 65%; }
+
+    @font-face {
+        font-family: "Basilius";
+        src: url("https://db.onlinewebfonts.com/t/a2cd430f61dd1457a862810e731c3a12.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "Alize";
+        src: url("https://db.onlinewebfonts.com/t/424a83e04bac8e84a3ca6b2376f83ba3.woff2") format("woff2");
+        font-style: normal;
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "Alize";
+        src: url("https://db.onlinewebfonts.com/t/9ba8d5cd58729967070aa5b82e25e1a3.woff2") format("woff2");
+        font-style: normal;
+        font-weight: 600; }
+
+    @font-face {
+        font-family: "Alize";
+        src: url("https://db.onlinewebfonts.com/t/451b878d00761502ac8a0a91018990cd.woff2") format("woff2");
+        font-style: normal;
+        font-weight: 800; }
+
+    @font-face {
+        font-family: "1491 Cancellaresca";
+        src: url("https://db.onlinewebfonts.com/t/69e9ea8abb036e46c98ec53b50124505.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "1610 Cancellaresca";
+        src: url("https://db.onlinewebfonts.com/t/250f58f6f8889d4866553813621e11c7.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Cancellaresca New";
+        src: url("https://db.onlinewebfonts.com/t/613a170f6414848e98bf7102545da752.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Rene Descartes";
+        src: url("https://db.onlinewebfonts.com/t/178b987fba5b66838ce6a27e662b7a15.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Dreamer Script";
+        src: url("https://db.onlinewebfonts.com/t/46d411c34f8faf2e534fc8559c71bdf4.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Hamlet";
+        src: url("https://db.onlinewebfonts.com/t/e61118f304c49d62c9eb07f9093bae2d.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "Hamlet Cicero";
+        src: url("https://db.onlinewebfonts.com/t/f9d5070f0f9b3881128c43502c4c2c27.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "Hamlet Headstone";
+        src: url("https://db.onlinewebfonts.com/t/3b6b6d111d6fcaafa997a64fcf705cf2.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "Hamlet Handtooled";
+        src: url("https://db.onlinewebfonts.com/t/75a53e5b671415d34c2cfba4f28496f4.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "Vicentino";
+        src: url("https://db.onlinewebfonts.com/t/09396f37d2e1d36176e7921cfed61a47.woff2") format("woff2"); }
+
+    @font-face {
+        font-family: "Humane Niccoli";
+        src: url("https://db.onlinewebfonts.com/t/657034273c8cc22c3ab01df88115fa89.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Bastarde Lyon";
+        src: url("https://db.onlinewebfonts.com/t/611766d311c6e09cd93b7cf4f62039cf.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Paris Verand";
+        src: url("https://db.onlinewebfonts.com/t/a64e3ff03099c26300c967935ede10bd.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "1479 Caxton";
+        src: url("https://db.onlinewebfonts.com/t/a7ff9cdac636aa03e2c81e4d15515316.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Holbein";
+        src: url("https://db.onlinewebfonts.com/t/355cca53f3dfdd0085a0586a998771d2.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Script Gothic";
+        src: url("https://db.onlinewebfonts.com/t/591143c94034722094e7caf1d8eed589.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Mercator Script";
+        src: url("https://db.onlinewebfonts.com/t/ec80303b1b13e5e318e8dd2ae101e550.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Austerlitz Script";
+        src: url("https://db.onlinewebfonts.com/t/05281b61a2dfaa486cca71088008fa34.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "1651 Alchemy";
+        src: url("https://db.onlinewebfonts.com/t/e90bad7eca8a7239a1e12c72a9868723.woff2")format("woff2");
+        font-style: normal; }
+
+    @font-face {
+        font-family: "1651 Alchemy";
+        src: url("https://db.onlinewebfonts.com/t/2e224d2f338baba05bad6b2f07f94f97.woff2")format("woff2");
+        font-style: italic; }
+
+    @font-face {
+        font-family: "1651 Alchemy Symbols";
+        src: url("https://db.onlinewebfonts.com/t/445545579ecd610c80a06e511a54959d.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Financiere";
+        src: url("https://db.onlinewebfonts.com/t/c2fb077af113fc2598e7261c2671d0da.woff2")format("woff2");
+        font-style: italic; }
+
+    @font-face {
+        font-family: "1512 Initials";
+        src: url("https://db.onlinewebfonts.com/t/8293c14062be30b67f121d04dcefb2c5.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "1510 Nancy";
+        src: url("https://db.onlinewebfonts.com/t/48039ba8f251b80b85cf555109e7cde8.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "1565 Renaissance";
+        src: url("https://db.onlinewebfonts.com/t/d54f709a96af9fc8c3b2c569c2e26c76.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Almanach Symbols";
+        src: url("https://db.onlinewebfonts.com/t/f9c601ede7cd88a9719ed52d4ff014b6.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "GLC Ornaments";
+        src: url("https://db.onlinewebfonts.com/t/232535038ae6e7320653e587679c1f1a.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Mary Jane Antique";
+        src: url("https://db.onlinewebfonts.com/t/6cf071566d73aa60edfe8a323164736d.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Powell Antique";
+        src: url("https://db.onlinewebfonts.com/t/b6801deea5e7aa0e16c8699846fd66e2.woff2")format("woff2");
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "Powell Antique";
+        src: url("https://db.onlinewebfonts.com/t/fa00dbe9a2062d6117f3bd99c6d9779f.woff2")format("woff2");
+        font-weight: 700; }
+
+    @font-face {
+        font-family: "Pabst Oldstyle";
+        src: url("https://db.onlinewebfonts.com/t/2d4bee36eed65a1e8ee4ab60d38cba7e.woff2")format("woff2");
+        font-style: normal;
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "Pabst Oldstyle";
+        src: url("https://db.onlinewebfonts.com/t/3170644a4aa385a4f6adb311144264f0.woff2")format("woff2");
+        font-style: italic;
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "Pabst Oldstyle";
+        src: url("https://db.onlinewebfonts.com/t/04dbdb0339c4b1371af0c5ecd6692821.woff2")format("woff2");
+        font-weight: 900;
+        font-style: italic; }
+
+    @font-face {
+        font-family: "Packard Antique";
+        src: url("https://db.onlinewebfonts.com/t/3036bce9282bb4839b6ba113f5df31e5.woff2")format("woff2");
+        font-weight: 400; }
+
+    @font-face {
+        font-family: "Packard Antique";
+        src: url("https://db.onlinewebfonts.com/t/d4778ad311cc1c4831b4c4dfdb07de1e.woff2")format("woff2");
+        font-weight: 700; }
+
+
+    @font-face {
+        font-family: "Black Chancery";
+        src: url("https://db.onlinewebfonts.com/t/753833d2833e9f73b56cffae357cf95f.woff2")format("woff2"); }
+
+    @font-face {
+        font-family: "Belwe Gotisch";
+        src: url("https://db.onlinewebfonts.com/t/da0a22ae1eebfa570ada40c684ce8135.woff2")format("woff2"); }
+
