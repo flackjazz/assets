@@ -18,13 +18,11 @@
 
 @font-face { 
   font-family: 'Old Claude'; 
-  src: url('fonts/Old Claude W01 RegularLP.woff2')format('woff2');
-  font-variant: normal;}
+  src: url('fonts/Old Claude W01 RegularLP.woff2')format('woff2');}
 
 @font-face { 
-  font-family: 'Old Claude'; 
-  src: url('fonts/Old Claude W01 ExpertLP.woff2')format('woff2');
-  font-variant: small-caps;}
+  font-family: 'Old Claude SC'; 
+  src: url('fonts/Old Claude W01 ExpertLP.woff2')format('woff2');}
 
 @font-face {
         font-family: "Lava";
