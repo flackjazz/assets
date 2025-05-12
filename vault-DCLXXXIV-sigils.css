@@ -1,29 +1,29 @@
 @font-face { 
   font-family: 'Gans Blasones'; 
-  src: url('fonts/GansBlasones.woff2') format('woff2');}
+  src: url('fonts/GansBlasones.woff2')format('woff2');}
 
 @font-face { 
   font-family: 'Gans Blasones Two'; 
-  src: url('fonts/GansBlasonesTwo.woff2') format('woff2');}
+  src: url('fonts/GansBlasonesTwo.woff2')format('woff2');}
 
 @font-face { 
   font-family: 'Junicode VF'; 
-  src: url('fonts/JunicodeVF-Roman.woff2') format('woff2');
+  src: url('fonts/JunicodeVF-Roman.woff2')format('woff2');
   font-style: normal;}
 
 @font-face { 
   font-family: 'Junicode VF'; 
-  src: url('fonts/JunicodeVF-Italic.woff2') format('woff2');
+  src: url('fonts/JunicodeVF-Italic.woff2')format('woff2');
   font-style: italic;}
 
 @font-face { 
   font-family: 'Old Claude'; 
-  src: url('fonts/Old Claude W01 RegularLP.woff2') format('woff2');
+  src: url('fonts/Old Claude W01 RegularLP.woff2')format('woff2');
   font-variant: normal;}
 
 @font-face { 
   font-family: 'Old Claude'; 
-  src: url('fonts/Old Claude W01 ExpertLP.woff2') format('woff2');
+  src: url('fonts/Old Claude W01 ExpertLP.woff2')format('woff2');
   font-variant: small-caps;}
 
 @font-face {
