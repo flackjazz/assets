@@ -16,6 +16,16 @@
   src: url('fonts/JunicodeVF-Italic.woff2') format('woff2');
   font-style: italic;}
 
+@font-face { 
+  font-family: 'Old Claude'; 
+  src: url('fonts/Old Claude W01 RegularLP.woff2') format('woff2');
+  font-variant: normal;}
+
+@font-face { 
+  font-family: 'Old Claude'; 
+  src: url('fonts/Old Claude W01 ExpertLP.woff2') format('woff2');
+  font-variant: small-caps;}
+
 @font-face {
         font-family: "Lava";
         src: url("https://db.onlinewebfonts.com/t/8c6538635205ee5ae73c6ecc30cfb3b2.eot");
