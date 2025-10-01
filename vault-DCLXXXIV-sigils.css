@@ -10,6 +10,22 @@
     src: url("https://db.onlinewebfonts.com/t/f9f65691699d1701b5146434367f9990.woff2")format("woff2");
     font-style: italic;}
 
+@font-face {
+    font-family: "Karolus";
+    src: url("https://db.onlinewebfonts.com/t/6a554704e8a60248c8a21bcda396ca87.woff2")format("woff2");}
+
+@font-face {
+    font-family: "1648 Chancellerie";
+    src: url("https://db.onlinewebfonts.com/t/6a32a231075f79c8d21a9e6ec1d83b8b.woff2")format("woff2");}
+
+@font-face {
+    font-family: "Jaeck";
+    src: url("https://db.onlinewebfonts.com/t/a2e70ada368ce52398c297615e315f3b.woff2")format("woff2");}
+
+@font-face {
+    font-family: "Vergilius";
+    src: url("https://db.onlinewebfonts.com/t/0295835483b858cda01ae8861acd27c8.woff2")format("woff2");}
+
 @font-face { 
   font-family: 'Gans Blasones'; 
   src: url('fonts/GansBlasones.woff2')format('woff2');}
