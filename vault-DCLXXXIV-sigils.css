@@ -1,14 +1,16 @@
 @font-face {
     font-family: "AldeManuce";
-    src: url("https://db.onlinewebfonts.com/t/8fcba25cad7e455d9c900464ec6e7fe3.eot");
     src: url("https://db.onlinewebfonts.com/t/8fcba25cad7e455d9c900464ec6e7fe3.woff2")format("woff2");
     font-style: normal;}
 
 @font-face {
     font-family: "AldeManuce";
-    src: url("https://db.onlinewebfonts.com/t/f9f65691699d1701b5146434367f9990.eot");
     src: url("https://db.onlinewebfonts.com/t/f9f65691699d1701b5146434367f9990.woff2")format("woff2");
     font-style: italic;}
+
+@font-face {
+    font-family: "Rotunda Lyon";
+    src: url("https://db.onlinewebfonts.com/t/26e04e60410e72b6d1ee0be5aa8bbdba.woff2")format("woff2");}
 
 @font-face {
     font-family: "Karolus";
