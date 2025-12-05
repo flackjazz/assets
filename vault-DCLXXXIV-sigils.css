@@ -13,6 +13,66 @@
     font-style: italic;}
 
 @font-face {
+    font-family: "Tiamat";
+    src: url("https://fonts.dndbeyond.com/tiamat-medium-webfont.woff2") format("woff2");}
+
+@font-face {
+    font-family: "Tiamat";
+    src: url("https://fonts.dndbeyond.com/tiamat-medium-italic-webfont.woff2") format("woff2");
+    font-style: italic;}
+
+@font-face {
+    font-family: "Tiamat";
+    src: url("https://fonts.dndbeyond.com/tiamat-semi-bold-webfont.woff2") format("woff2");
+    font-weight: 600;}
+
+@font-face {
+    font-family: "Tiamat";
+    src: url("https://fonts.dndbeyond.com/tiamat-semi-bold-italic-webfont.woff2") format("woff2");
+    font-weight: 600;
+    font-style: italic;}
+
+@font-face {
+    font-family: "Tiamat";
+    src: url("https://fonts.dndbeyond.com/tiamat-bold-webfont.woff2") format("woff2");
+    font-weight: 700;}
+
+@font-face {
+    font-family: "Tiamat";
+    src: url("https://fonts.dndbeyond.com/tiamat-bold-italic-webfont.woff2") format("woff2");
+    font-style: italic;
+    font-weight: 700;}
+
+@font-face {
+    font-family: "Tiamat Condensed SC";
+    src: url("https://fonts.dndbeyond.com/tiamatcondensedsc-regular-webfont.woff2") format("woff2");}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("https://fonts.dndbeyond.com/roboto-regular-webfont.woff2") format("woff2");
+    font-weight: 400;}
+
+@font-face {
+    font-family: "Roboto";
+    src: url("https://fonts.dndbeyond.com/roboto-bold-webfont.woff2") format("woff2");
+    font-weight: 700;}
+
+@font-face {
+    font-family: "Roboto Flex";
+    src: url("https://fonts.dndbeyond.com/Roboto_Flex.ttf") format("truetype");
+    font-weight: 400 700;}
+
+@font-face {
+    font-family: "Majesty";
+    src: url("https://fonts.dndbeyond.com/majesty-medium-webfont.woff2") format("woff2");
+    font-weight: 500;}
+
+@font-face {
+    font-family: "Majesty";
+    src: url("https://fonts.dndbeyond.com/majesty-bold-webfont.woff2") format("woff2");
+    font-weight: 700;}
+
+@font-face {
     font-family: "2000 Bastarda";
     src: url("https://db.onlinewebfonts.com/t/6bae89903d33c1170660723215388fab.woff2")format("woff2");}
 
