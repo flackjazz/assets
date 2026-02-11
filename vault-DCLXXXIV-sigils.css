@@ -1,3 +1,26 @@
+@font-face{
+    font-family: "WolpePegasus";
+    src: url("https://db.onlinewebfonts.com/t/08fd6ffb87aac63ca5d4a4da848f4b86.woff2")format("woff2");
+    font-weight: 400;}
+    
+@font-face{
+    font-family: "WolpePegasus";
+    src: url("https://db.onlinewebfonts.com/t/6e614e2da37972cdf0eb459fbfd8f65b.woff2")format("woff2");
+    font-weight: 700;}
+
+@font-face{
+    font-family: "WolpePegasus";
+    src: url("https://db.onlinewebfonts.com/t/cb45666a9a40e2232221da1950ec758a.woff2")format("woff2");
+    font-style: italic;}
+
+@font-face{
+    font-family: "WolpePegasus";
+    src: url("https://db.onlinewebfonts.com/t/1d26f18f07744be986c1d9063504bb28.woff2")format("woff2");
+    font-style: italic;
+    font-weight: 700;}
+
+
+
 @font-face {
     font-family: "Possum Saltare";
     src: url("https://db.onlinewebfonts.com/t/9da18337662a240bc1e61604efc0fef4.woff2")format("woff2");}
